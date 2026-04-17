@@ -1,0 +1,9 @@
+- Fazer o desenvolvimento do site ser um projeto do grupo com certificado de participação
+- RSS nas seções de notícias, tutoriais e artigos
+- Lista de membros com link para uma página por membro onde cada um pode adicionar uma pequena bio (via template, commit, push, talvez usando branch protection)
+- Seção de notícias, tutoriais e artigos com templates para publicação pelos membros do grupo
+- Analytics que seja privacy aware (verificar compatibilidade com política de privacidade do grupo)
+- Construído em Jekyll+Vue
+- Responsivo/mobile aware
+- Seção de contato com formulário
+- Seção de eventos com calendário
